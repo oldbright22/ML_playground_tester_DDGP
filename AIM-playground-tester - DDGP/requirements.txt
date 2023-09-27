@@ -1,0 +1,11 @@
+numpy
+scikit-image
+gymnasium[mujoco]
+opencv-python
+torch
+pytorch-lightning
+wandb
+moviepy
+imageio
+matplotlib
+pandas

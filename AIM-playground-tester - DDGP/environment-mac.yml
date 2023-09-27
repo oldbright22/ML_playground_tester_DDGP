@@ -1,0 +1,24 @@
+name: aim-playground
+channels:
+  - default
+dependencies:
+  - _libgcc_mutex=0.1
+  - ca-certificates=2021.10.26
+  - certifi=2021.10.8
+  - libffi=3.3
+  - ncurses=6.3
+  - openssl=1.1.1m
+  - pip=21.2.2
+  - python=3.9.2
+  - readline=8.1.2
+  - setuptools=58.0.4
+  - sqlite=3.37.0
+  - tk=8.6.11
+  - wheel=0.37.1
+  - xz=5.2.5
+  - zlib=1.2.11
+  - pip:
+    - numpy==1.19.3
+    - protobuf==3.19.4
+    - pyglet==1.5.11
+    - tensorflow==2.5.0
